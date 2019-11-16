@@ -4,3 +4,6 @@
 [submodule "union_select"]
 	path = union_select
 	url = https://github.com/amaranth0203/union_select
+[submodule "upload01"]
+	path = upload01
+	url = git@github.com:amaranth0203/upload01.git
