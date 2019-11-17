@@ -10,3 +10,6 @@
 [submodule "upload02"]
 	path = upload02
 	url = git@github.com:amaranth0203/upload02.git
+[submodule "boolean_based_blind_inject"]
+	path = boolean_based_blind_inject
+	url = git@github.com:amaranth0203/boolean_based_blind_inject.git
