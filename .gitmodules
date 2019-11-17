@@ -7,3 +7,6 @@
 [submodule "upload01"]
 	path = upload01
 	url = git@github.com:amaranth0203/upload01.git
+[submodule "upload02"]
+	path = upload02
+	url = git@github.com:amaranth0203/upload02.git
