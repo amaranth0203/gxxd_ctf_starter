@@ -13,3 +13,6 @@
 [submodule "boolean_based_blind_inject"]
 	path = boolean_based_blind_inject
 	url = git@github.com:amaranth0203/boolean_based_blind_inject.git
+[submodule "check_in"]
+	path = check_in
+	url = git@github.com:amaranth0203/check_in.git
