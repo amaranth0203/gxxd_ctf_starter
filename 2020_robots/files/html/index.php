@@ -2,7 +2,6 @@
 
 <head>
   <meta charset="UTF-8">
-  <script src="./story.js"></script>
   <title>robots</title>
 </head>
 
