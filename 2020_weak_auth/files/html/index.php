@@ -30,10 +30,10 @@
     </div>
     <br>
     <br>
-    <button style="width:280px;" class="btn btn-default">login</button>
+    <button style="width:280px;" class="btn btn-default">登录</button>
     <br>
     <br>
-    <button style="width:280px;" class="btn btn-default" type="reset">reset</button>
+    <button style="width:280px;" class="btn btn-default" type="reset">重置</button>
   </form>
 
 </body>
