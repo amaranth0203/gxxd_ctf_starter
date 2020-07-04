@@ -4,9 +4,9 @@ services:
 
   web:
     build: .
-    image: amaranth0203/boolean_based_blind_inject
+    image: sqli_wnmm
     restart: always
     ports:
-      - "127.0.0.1:8302:80"
+      - "0.0.0.0:8302:80"
     environment:
       - FLAG=flag{dynamic}
