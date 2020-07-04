@@ -16,7 +16,7 @@ ob_start();
       width: 40em;
     }
   </style>
-  <title>webshell</title>
+  <title>PING</title>
 </head>
 
 <body>
