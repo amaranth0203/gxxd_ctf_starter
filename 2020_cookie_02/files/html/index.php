@@ -6,7 +6,7 @@ ob_start();
 
 <head>
   <meta charset="UTF-8">
-  <title>cookie1</title>
+  <title>cookie2</title>
   <style>
     body {
       margin-left: auto;
