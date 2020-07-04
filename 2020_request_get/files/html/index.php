@@ -10,14 +10,18 @@
       margin-left: auto;
       margin-right: auto;
       margin-TOP: 100PX;
-      width: 20em;
+      width: 40em;
     }
   </style>
   <title>http_get请求</title>
 </head>
 
 <body>
-  <h1>发送一个get请求,参数名字:I_wanna_flag,参数值:I_wanna_f1ag</h1>
+  <h1>
+    给我一个get请求<br />
+    参数名字:I_wanna_flag<br />
+    参数值:I_wanna_f1ag<br />
+  </h1>
 
   <?php
   include("config.php");
