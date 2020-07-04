@@ -2,14 +2,7 @@
 show_source(__FILE__);
 include("config.php");
 $a=@$_GET['a'];
-$b=@$_GET['b'];
 if($a==0 and $a){
-  echo "第一关过了, 加油!(ง •̀_•́)ง\n";
-}
-if(is_numeric($b)){
-  exit();
-}
-if($b>1234){
   echo $flag;
 }
 ?>
@@ -28,7 +21,7 @@ if($b>1234){
     width:20em;
     }
   </style>
-  <title>简单php</title>
+  <title>简单php1</title>
 </head>
 
 <body>

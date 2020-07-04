@@ -4,7 +4,7 @@ services:
 
   web:
     build: .
-    image: simple_php
+    image: simple_php_01
     restart: always
     ports:
       - "0.0.0.0:8302:80"
