@@ -21,12 +21,12 @@
   <h1>没有验证次数的弱密码题,猜不到的话就用bp暴力破解吧</h1>
   <form class="form-inline" method="post" action="./backend.php">
     <div class="input-group">
-      <input style="width:280px;" id="username" type="text" class="form-control" placeholder="username" aria-describedby="basic-addon1" name="username">
+      <input style="width:280px;" id="username" type="text" class="form-control" placeholder="用户名" aria-describedby="basic-addon1" name="username">
     </div>
     <br>
     <br>
     <div class="input-group">
-      <input style="width:280px;" id="password" type="password" class="form-control" placeholder="password" aria-describedby="basic-addon1" name="password">
+      <input style="width:280px;" id="password" type="password" class="form-control" placeholder="密码" aria-describedby="basic-addon1" name="password">
     </div>
     <br>
     <br>
