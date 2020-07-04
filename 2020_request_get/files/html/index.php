@@ -13,7 +13,7 @@
       width: 20em;
     }
   </style>
-  <title>简单php</title>
+  <title>http_get请求</title>
 </head>
 
 <body>
