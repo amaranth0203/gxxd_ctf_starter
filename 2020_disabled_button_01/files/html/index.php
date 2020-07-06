@@ -1,4 +1,3 @@
-
 <?php
 if (isset($_POST['gxxd_auth'])) {
   if ($_POST['gxxd_auth'] == 'gxxd_wassup') {
@@ -18,7 +17,8 @@ if (isset($_POST['gxxd_auth'])) {
 <body>
   <h1>美工跑路了，只有一个简单的按钮，但是按不了</h1>
   <form action="" method="post">
-    <input disabled style="height:50px;width:200px;" type="submit" value="显示flag" name=" gxxd_auth" />
+    <input style="display:none;" value="gxxd_wassup" name="gxxd_auth" />
+    <input disabled style="height:50px;width:200px;" type="submit" value="显示flag" name="button" />
   </form>
 
 </body>
